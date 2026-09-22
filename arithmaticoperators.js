@@ -1,0 +1,12 @@
+let a=5;
+let b=6;
+c=a+b;
+d=a-b;
+f=a**b;
+g=a/b;
+h=a%b;
+console.log(f);
+console.log(c);
+console.log(d);
+console.log(g);
+console.log(h);
